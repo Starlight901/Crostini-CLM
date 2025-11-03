@@ -1,7 +1,4 @@
 # Crostini-CLM
-[Private Repo | Not for redistrubition without approval]
-- - -
-
 Crostini (Linux) on chromebooks has always been confusing for some people, and borderline impossible for people like SHC students due to the enterpise policies. This repo will contain all of the information, files, and support that you will need to get started with Crostini.
 
 - - -
